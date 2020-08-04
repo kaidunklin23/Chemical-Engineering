@@ -1,0 +1,19 @@
+body{
+    background-color: violet;
+    color:white;
+    
+}
+.lik{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 30px;
+}
+img{
+    height: auto;
+    width: 400px;
+}
+.App{
+  margin:auto;
+  width:50%;
+  
+}
