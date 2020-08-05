@@ -1,17 +1,20 @@
 body{
-    background-color: violet;
+    background-color: rgb(59, 208, 231);
     color:white;
+    font-family: 'Montserrat', sans-serif;
     
 }
 .lik{
     color: white;
     text-decoration: none;
     margin-bottom: 30px;
+    font-size: 30px;
     
 }
 img{
     height: auto;
-    width: 400px;
+    width: 500px;
+    border-radius: 10px
 }
 .App{
   margin: auto;
@@ -19,9 +22,4 @@ img{
   text-align: center;
   
 }
-ul{
-   
-    list-style-image: url(../chem.png);    
-    list-style-position: inside;
-      
-    }
+
