@@ -9,12 +9,13 @@ class Home extends Component{
         <img src="https://lh3.googleusercontent.com/proxy/-aAegNZL12-Zd3xV7xgzlI5YbO7U8lJgzVqL9Lj38CjPosph0ks2WhV3g9lDIZ5BL47QTxyzBWBfOk84OgxXn5kgT8YrOawsIRJaFeYT8BcVqpQrV9YvfcOBp6kB3DlZrFUChRhzLg" />
 <br/>
 <br/>
-      <Link  className="lik" to="/Skills"> How Chemical Engineers use different math and science subjects </Link>
+<ul>
+      <li><Link  className="lik" to="/Skills"> How Chemical Engineers use different math and science subjects </Link></li>
       <br/>
-      <Link className="lik" to="/Problem"> How Chemical Engineers work with other subjects and industries </Link>
+      <li><Link className="lik" to="/Problem"> How Chemical Engineers work with other subjects and industries </Link></li>
       <br/>
-      <Link className="lik" to="/Life">How Chemical Engineers use knowledge of chemicals to solve real world problems. </Link>
-      
+      <li><Link className="lik" to="/Life">How Chemical Engineers use knowledge of chemicals to solve real world problems. </Link></li>
+ </ul>     
     </div>
         )
     }

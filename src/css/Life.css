@@ -1,5 +1,13 @@
 .Life{
     margin:auto;
     width:50%;
+    text-align: center;
+  }
+  ul{
+   
+  list-style-image: url(../chem.png);    
+  list-style-position: inside;
+  margin-bottom: 50px;
+  margin-right: 35px;
     
   }

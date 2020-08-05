@@ -5,6 +5,13 @@ const Problem = () => {
 
     return(
         <div className='Problem'>
+
+        <nav>
+            <nav class="navbar navbar-light bg-light">
+    <h1> Info about Chemical Engineers</h1>
+    <a href="/">Home</a>
+        </nav>
+            </nav>
             <h1>Chemical Engineers Have The Ability to ...</h1>
             <img src="https://simulatelive.com/images/page/225/article_full/1430232943_Depositphotos_19466575_orig.jpg" alt=""/>
             <ul>

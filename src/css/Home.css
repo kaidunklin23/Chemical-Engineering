@@ -7,13 +7,21 @@ body{
     color: white;
     text-decoration: none;
     margin-bottom: 30px;
+    
 }
 img{
     height: auto;
     width: 400px;
 }
 .App{
-  margin:auto;
-  width:50%;
+  margin: auto;
+  width: 50%;
+  text-align: center;
   
 }
+ul{
+   
+    list-style-image: url(../chem.png);    
+    list-style-position: inside;
+      
+    }
