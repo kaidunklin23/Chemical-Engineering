@@ -6,7 +6,7 @@ class Home extends Component{
         return(
             <div className="App">
 <h1> Info about Chemical Engineers</h1>
-        <img src="https://lh3.googleusercontent.com/proxy/-aAegNZL12-Zd3xV7xgzlI5YbO7U8lJgzVqL9Lj38CjPosph0ks2WhV3g9lDIZ5BL47QTxyzBWBfOk84OgxXn5kgT8YrOawsIRJaFeYT8BcVqpQrV9YvfcOBp6kB3DlZrFUChRhzLg" />
+        <img src="./chem.png" alt=""/>
 <br/>
 <br/>
 <ul>
