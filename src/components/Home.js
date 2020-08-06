@@ -2,11 +2,15 @@ import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
 import '../css/Home.css'
 class Home extends Component{
+
+    
+
     render() {
+
         return(
             <div className="App">
 <h1> Info about Chemical Engineers</h1>
-        <img src="./chem.png" alt=""/>
+
 <br/>
 <br/>
 <ul>

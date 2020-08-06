@@ -9,7 +9,7 @@ class App extends Component{
 render(){
   return (
   <BrowserRouter>
-    
+     
       <Switch>
         <Route exact path='/' component={Home}/>
         <Route path='/Skills' component={Skills}/>
@@ -20,7 +20,7 @@ render(){
    
     </BrowserRouter>
   );
-}
+  }
   
 }
 
